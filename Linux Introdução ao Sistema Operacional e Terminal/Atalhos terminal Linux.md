@@ -1,4 +1,4 @@
-	## Atalhos terminal Linux :keyboard:
+## Atalhos terminal Linux :keyboard:
 
 - **Ctrl + Alt + T** - Abrir o terminal
 - **Ctrl + L** - Limpa o terminal 
