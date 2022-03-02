@@ -1,0 +1,21 @@
+## Atalhos terminal Linux para manipulação de arquivos e diretórios
+
+- **cat "nome do arquivo"** - Exibe o conteúdo do arquivo
+- **tac "nome do arquivo"** - Exibe o conteúdo do arquivo em ordem inversa
+- **nano "nome do arquivo"** - Abre o editor de textos Linux
+- **touch "nome do arquivo"** - Cria um arquivo vazio
+- **find "nome do arquivo"** - Busca um arquivo
+- **file "nome do arquivo"** - Exibe o tipo de um arquivo
+- **head "nome do arquivo"** - Exibe as 10 primeiras linhas de um arquivo
+- **tail "nome do arquivo"** - Exibe as 10 últimas linhas de um arquivo
+- **more ou less "nome do arquivo"** - Exibe em um arquivo de texto paginado
+- **"nome do arquivo" | grep "palavra"** - Busca palavras em um arquivo de texto
+- **cal** - Exibe o calendário do mês atual
+- **cal "ano"** - Exibe o calendário do ano informado
+- **date** - Exibe a data atual
+- **whatis "comando"** - Exibe uma explicação sobre o comando
+- **|** - Envia a saída de um comando para a entrada de outro comando, permitindo a execução de dois comandos
+- **>** - Redireciona a saída de um comando para outro comando ou arquivo
+- **>>** - Redireciona a saída de um comando e adiciona a mesma  para outro comando ou arquivo
+- **&** - É um operador que permite usar dois comandos  e separar suas saídas no terminal
+- **&&** - Usado para que dois comandos sejam executados se o primeiro for executado com sucesso
