@@ -9,7 +9,7 @@
 - **head "nome do arquivo"** - Exibe as 10 primeiras linhas de um arquivo
 - **tail "nome do arquivo"** - Exibe as 10 últimas linhas de um arquivo
 - **more ou less "nome do arquivo"** - Exibe em um arquivo de texto paginado
-- **"nome do arquivo" | grep "palavra"** - Busca palavras em um arquivo de texto
+- **grep "palavra"** - Busca palavras em um arquivo de texto
 - **cal** - Exibe o calendário do mês atual
 - **cal "ano"** - Exibe o calendário do ano informado
 - **date** - Exibe a data atual
