@@ -1,4 +1,4 @@
-## Atalhos terminal Linux para manipulação de arquivos e diretórios
+## Atalhos terminal Linux para manipulação de arquivos
 
 - **cat "nome do arquivo"** - Exibe o conteúdo do arquivo
 - **tac "nome do arquivo"** - Exibe o conteúdo do arquivo em ordem inversa
