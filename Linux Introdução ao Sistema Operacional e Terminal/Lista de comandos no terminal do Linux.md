@@ -1,7 +1,5 @@
 ## Lista de comandos no terminal do Linux :bookmark_tabs:
 
- - **Ctrl + Alt + T** - Abrir o terminal
-
  - **ls** - Lista diretórios e arquivos dentro do diretório atual
 
  - **ls** -l - Mesmo que ls, porém com detalhes
@@ -38,8 +36,11 @@
 
  - **rm "nome do arquivo"** - Remove um arquivo
 
- - **clear** - Limpa o terminal **(Atalho - Ctrl+L)**
+ - **!!** - Repete o último comando 
 
- - **exit** - Finaliza o terminal **(Atalho - Ctrl+D)**
+ - **clear** - Limpa o terminal
+
+ - **exit** - Finaliza o terminal
 
    
+
