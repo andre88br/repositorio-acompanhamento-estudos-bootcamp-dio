@@ -24,7 +24,7 @@
 
  - **"comando" --help** - Exibe o arquivo de ajuda do comendo
 
- - **man "comando"**- Exibe o manual do comando
+ - **man "comando"** - Exibe o manual do comando
 
  - **mv "nome do arquivo ou diretório" "novo nome do arquivo ou diretório"** - Renomeia um diretório ou arquivo
 
