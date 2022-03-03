@@ -1,21 +1,19 @@
-## Comandos terminal Linux para manipulação de arquivos
+## Comandos terminal Linux para manipulação de diretórios
 
-- **cat "nome do arquivo"** - Exibe o conteúdo do arquivo
-- **tac "nome do arquivo"** - Exibe o conteúdo do arquivo em ordem inversa
-- **nano "nome do arquivo"** - Abre o editor de textos Linux
-- **touch "nome do arquivo"** - Cria um arquivo vazio
-- **find "nome do arquivo"** - Busca um arquivo
-- **file "nome do arquivo"** - Exibe o tipo de um arquivo
-- **head "nome do arquivo"** - Exibe as 10 primeiras linhas de um arquivo
-- **tail "nome do arquivo"** - Exibe as 10 últimas linhas de um arquivo
-- **more ou less "nome do arquivo"** - Exibe em um arquivo de texto paginado
-- **grep "palavra"** - Busca palavras em um arquivo de texto
-- **cal** - Exibe o calendário do mês atual
-- **cal "ano"** - Exibe o calendário do ano informado
-- **date** - Exibe a data atual
-- **whatis "comando"** - Exibe uma explicação sobre o comando
-- **|** - Envia a saída de um comando para a entrada de outro comando, permitindo a execução de dois comandos
-- **>** - Redireciona a saída de um comando para outro comando ou arquivo
-- **>>** - Redireciona a saída de um comando e adiciona a mesma  para outro comando ou arquivo
-- **&** - É um operador que permite usar dois comandos  e separar suas saídas no terminal
-- **&&** - Usado para que dois comandos sejam executados se o primeiro for executado com sucesso
+- **cat/proc/cpuinfo** - Arquivo de informações do processados
+- **lscpu** - Exibe informações do processador
+- **cat/proc/meminfo** - Arquivo de informações de memória
+- **free** - Exibe informações da memória física e virtual
+- **lshw** - Exibe informações detalhadas sobre o hardware
+- **lshw - short** - Exibe informações sobre o hardware
+- **uname** - Exibe o nome do kernel do sistema
+- **uname -r** - Exibe a versão do kernel
+- **uname -m** - Exibe a arquitetura do kernel
+- **arch** - Exibe a arquitetura do kernel
+- **lspci** - Exibe todas as placas PCI conectadas
+- **lsusb** - Exibe todos os dispositivos USB conectados
+- **du -h ~** -  Exibe o espaço que cada arquivo e pasta no diretório pessoal consome no hd
+- **reboot** - Reinicia o sistema
+- **shutdown -r** - Reinicia o sistema
+- **shutdown -h now** - Desliga o sistema rapidamente
+
