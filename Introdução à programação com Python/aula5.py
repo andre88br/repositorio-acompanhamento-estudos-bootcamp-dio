@@ -19,10 +19,6 @@ lista_numerica[0] = 100
 print(lista_numerica)
 
 
-
-
-
-
 # lista.sort()
 # lista_animais.sort()
 # print(lista)
