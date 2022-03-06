@@ -17,13 +17,15 @@ class Calculadora:
     def multiplicacao(self):
         return self.valor_a * self.valor_b
 
-a = float(input('N1: '))
-b = float(input('N2: '))
 
-calculadora = Calculadora(a, b)
+if __name__ == '__main__':
 
+    a = float(input('N1: '))
+    b = float(input('N2: '))
 
-print('{} + {} = {}'.format(calculadora.valor_a, calculadora.valor_b, calculadora.soma()))
-print('{} - {} = {}'.format(calculadora.valor_a, calculadora.valor_b, calculadora.subitracao()))
-print('{} * {} = {}'.format(calculadora.valor_a, calculadora.valor_b, calculadora.multiplicacao()))
-print('{} / {} = {}'.format(calculadora.valor_a, calculadora.valor_b, calculadora.divisao()))
+    calculadora = Calculadora(a, b)
+
+    print('{} + {} = {}'.format(calculadora.valor_a, calculadora.valor_b, calculadora.soma()))
+    print('{} - {} = {}'.format(calculadora.valor_a, calculadora.valor_b, calculadora.subitracao()))
+    print('{} * {} = {}'.format(calculadora.valor_a, calculadora.valor_b, calculadora.multiplicacao()))
+    print('{} / {} = {}'.format(calculadora.valor_a, calculadora.valor_b, calculadora.divisao()))
