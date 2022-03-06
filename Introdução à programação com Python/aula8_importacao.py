@@ -5,5 +5,4 @@ b = float(input('N2: '))
 
 cal = Calculadora(a, b)
 
-
 print(cal.soma())
